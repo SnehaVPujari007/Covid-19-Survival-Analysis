@@ -125,8 +125,8 @@ Visualizations play an important role in understanding the dataset and interpret
      - Visualizations like bar charts, pie charts, and heatmaps to analyze relationships between features and survival.
      - A live prediction feature (optional), where users can input patient data to predict survival.
 
-By combining these visualizations, the project helps in both exploratory data analysis and model interpretation.
----
+
+
 ## License
 
 This project has MIT License.
