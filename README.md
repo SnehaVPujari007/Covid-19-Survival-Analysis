@@ -52,7 +52,7 @@ The dataset should contain columns such as:
    ```bash
    git clone https://github.com/SnehaVPujari/covid-survival-prediction.git
 
-``
+
 ## Data Preprocessing
 
 The dataset undergoes the following preprocessing steps to prepare the data for machine learning model training:
